@@ -4,7 +4,7 @@ Code and analysis notebooks for the paper:
 
 **Trustworthy Tree-based Machine Learning by MoS2 Flash-based Analog CAM with Inherent Soft Boundaries**
 
-Authors: Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, Xiaobo Sharon Hu
+Authors: Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, Xiaobo Sharon Hu, Can Li.
 
 This repository contains the notebook-based workflow used to study soft-boundary tree models implemented with analog CAM-inspired behavior. The project covers three main parts:
 
