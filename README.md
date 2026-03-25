@@ -6,6 +6,8 @@ Code and analysis notebooks for the paper:
 
 Authors: Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, Xiaobo Sharon Hu, Can Li.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224749.svg)](https://doi.org/10.5281/zenodo.19224749)
+
 This repository contains the notebook-based workflow used to study soft-boundary tree models implemented with analog CAM-inspired behavior. The project covers three main parts:
 
 - training soft decision tree (SDT) and soft random forest (SRF) models derived from conventional tree models,
@@ -169,6 +171,10 @@ Before running them, make sure that:
 
 If you use this repository in academic work, please cite the paper:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224749.svg)](https://doi.org/10.5281/zenodo.19224749)
+
+Repository DOI: https://doi.org/10.5281/zenodo.19224749
+
 ```bibtex
 @article{wen_cam_softtree,
 	title={Trustworthy Tree-based Machine Learning by MoS2 Flash-based Analog CAM with Inherent Soft Boundaries},
@@ -178,7 +184,7 @@ If you use this repository in academic work, please cite the paper:
 }
 ```
 
-Update the BibTeX entry with volume, issue, pages, year, and DOI once the final publication metadata is available.
+Update the BibTeX entry with the final Nature Communications publication metadata once the paper DOI, volume, issue, pages, and year are available.
 
 ## License
 
